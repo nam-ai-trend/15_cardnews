@@ -1,0 +1,76 @@
+{
+  "project_title": "2026 청약 제도 개편 핵심 3가지",
+  "category": "부동산 핫이슈 · 청약",
+  "date": "2026.09.21",
+  "author": {
+    "name": "@realestate_insights",
+    "avatar_letter": "R"
+  },
+  "slides": [
+    {
+      "slide_number": 1,
+      "total_slides": 4,
+      "type": "cover",
+      "tagline": "2026 국토부 최신 발표 요약",
+      "headline_prefix": "무주택자라면 무조건 확인!",
+      "headline_highlight": "청약 제도 3가지 개편",
+      "headline_suffix": "총정리",
+      "image_path": "../assets/cover_sample.jpg",
+      "image_caption": "당첨 확률 2배 높이는 청약 통장 활용 전략",
+      "swipe_text": "밀어서 핵심 확인하기"
+    },
+    {
+      "slide_number": 2,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "KEY POINT 01",
+      "title": "바뀐 청약 제도, 핵심 포인트 3가지",
+      "points": [
+        {
+          "number": "01",
+          "heading": "무순위 '줍줍' 거주 요건 완화",
+          "desc": "해당 지역 거주자가 아니어도 전국 단위로 청약 접수가 가능해져 기회가 대폭 확대되었습니다."
+        },
+        {
+          "number": "02",
+          "heading": "신혼·출산 가구 특별공급 소득 기준 상향",
+          "desc": "맞벌이 부부의 소득 기준이 도시근로자 월평균의 200%까지 완화되어 혜택 대상이 증가합니다."
+        },
+        {
+          "number": "03",
+          "heading": "청약 통장 월 납입 인정액 상향",
+          "desc": "기존 10만 원에서 최대 25만 원으로 상향되어 공공분양 당첨 합격선이 단축됩니다."
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "total_slides": 4,
+      "type": "body_visual",
+      "step_badge": "KEY POINT 02",
+      "title": "실전 적용: 당첨 확률 높이는 액션 플랜",
+      "image_path": "../assets/doc_sample.jpg",
+      "points": [
+        {
+          "number": "TIP",
+          "heading": "자동이체 금액을 즉시 25만 원으로 변경",
+          "desc": "지금부터 1년만 유지해도 기존 방식 대비 인정 금액에서 180만 원 이상의 가산점 격차를 벌릴 수 있습니다."
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "total_slides": 4,
+      "type": "cta",
+      "summary_title": "오늘의 3줄 핵심 요약",
+      "summary_items": [
+        "전국 단위 무순위 청약 가능으로 선택지 확대",
+        "맞벌이 소득 기준 완화로 신혼특공 기회 증가",
+        "청약 인정액 월 25만 원으로 즉시 상향 필요"
+      ],
+      "action_title": "놓치면 손해보는 부동산 소식",
+      "action_desc": "매일 아침 가장 빠르고 정확한 부동산 팩트를 전달합니다.",
+      "icons": ["저장하고 나중에 보기", "친구에게 공유"]
+    }
+  ]
+}

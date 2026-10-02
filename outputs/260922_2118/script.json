@@ -1,0 +1,88 @@
+{
+  "project_title": "서울에서 2룸 보증금이 단돈 200만원?👀 서울에서 자취방이나 내 집 마련을 알아보고 있다면 총 420호 규모의 청... 카드뉴스",
+  "category": "부동산 트렌드 · 심층 분석",
+  "date": "20269.22.",
+  "author": {
+    "name": "@realestate_insights",
+    "avatar_letter": "R"
+  },
+  "tagline": "🚨 긴급 점검 · 손실 방지",
+  "slides": [
+    {
+      "slide_number": 1,
+      "total_slides": 4,
+      "type": "cover",
+      "tagline": "🚨 긴급 점검 · 손실 방지",
+      "headline_prefix": "자취방이나 내 집 마련을",
+      "headline_highlight": "서울에서 2룸 보증금이 단돈 200만원?👀",
+      "headline_suffix": "이번 기회를 놓치지 마세요!",
+      "image_caption": "놓칠 수 없는 청년 매입임대주택 정보",
+      "swipe_text": "밀어서 확인하기"
+    },
+    {
+      "slide_number": 2,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "CHECK 01",
+      "title": "청년 매입임대주택의 이점",
+      "points": [
+        {
+          "number": 1,
+          "heading": "저렴한 보증금",
+          "desc": "1순위는 100만원, 2순위는 200만원부터 시작!"
+        },
+        {
+          "number": 2,
+          "heading": "시세의 40~50% 공급",
+          "desc": "주변 시세보다 훨씬 저렴하게 입주 가능!"
+        },
+        {
+          "number": 3,
+          "heading": "다양한 주택 옵션",
+          "desc": "신축 오피스텔부터 2룸까지 다양한 선택지."
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "FACT 02",
+      "title": "청약 일정과 지역",
+      "points": [
+        {
+          "number": 1,
+          "heading": "청약 일정",
+          "desc": "9/28(월) ~ 9/30(수)에 신청 가능!"
+        },
+        {
+          "number": 2,
+          "heading": "서울 24개 자치구",
+          "desc": "광범위한 지역에서 다양한 주택이 공급됩니다."
+        },
+        {
+          "number": 3,
+          "heading": "신속한 정보 확보",
+          "desc": "신청 조건 및 주택 정보는 미리 확인해야 해요!"
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "total_slides": 4,
+      "type": "cta",
+      "summary_title": "오늘의 핵심 포인트 3줄 요약",
+      "summary_items": [
+        "서울에서 예산으로 가능한 청년 매입임대주택!",
+        "저렴한 보증금과 낮은 시세로 공급!",
+        "청약 일정 놓치지 말고 준비하세요!"
+      ],
+      "action_title": "더 많은 부동산 꿀팁이 궁금하다면?",
+      "action_desc": "팔로우하고 매일 새로운 인사이트를 받아보세요!",
+      "icons": [
+        "저장하기",
+        "공유하기"
+      ]
+    }
+  ]
+}

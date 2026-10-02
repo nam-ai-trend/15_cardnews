@@ -1,0 +1,88 @@
+{
+  "project_title": "메타 AI가 ‘반도체 주식’을 전부 폭등시킨 진짜 이유 카드뉴스",
+  "category": "부동산 트렌드 · 심층 분석",
+  "date": "20269.22.",
+  "author": {
+    "name": "@realestate_insights",
+    "avatar_letter": "R"
+  },
+  "tagline": "🚨 긴급 점검 · 손실 방지",
+  "slides": [
+    {
+      "slide_number": 1,
+      "total_slides": 4,
+      "type": "cover",
+      "tagline": "🚨 긴급 점검 · 손실 방지",
+      "headline_prefix": "조심하세요!",
+      "headline_highlight": "메타 AI가 반도체 주식을 폭등시킨 진짜 이유는?",
+      "headline_suffix": "알지 못하면 후회할 수도!",
+      "image_caption": "AI 시대, 반도체의 새로운 가능성",
+      "swipe_text": "밀어서 확인하기"
+    },
+    {
+      "slide_number": 2,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "CHECK 01",
+      "title": "메타 AI '뮤즈'의 혁신",
+      "points": [
+        {
+          "number": 1,
+          "heading": "AI 비서의 진화",
+          "desc": "단순한 질문에 답하는 수준에서, 실제 작업을 맡길 수 있는 AI로 발전."
+        },
+        {
+          "number": 2,
+          "heading": "상장 기업들의 급격한 성과",
+          "desc": "메타, 인텔, AMD 등 관련 기업들의 주가가 폭등."
+        },
+        {
+          "number": 3,
+          "heading": "CPU의 중요성 증가",
+          "desc": "AI가 복잡한 작업을 수행함에 따라 CPU 수요가 대폭 증가."
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "FACT 02",
+      "title": "한국 반도체 시장에 미치는 영향",
+      "points": [
+        {
+          "number": 1,
+          "heading": "삼성전자 & SK하이닉스",
+          "desc": "전 세계 DRAM 시장의 1/3을 차지하는 한국 기업들."
+        },
+        {
+          "number": 2,
+          "heading": "AI 수요의 변화",
+          "desc": "AI의 필요성이 커질수록 한국 반도체의 수요도 증가."
+        },
+        {
+          "number": 3,
+          "heading": "앞으로의 시장 전망",
+          "desc": "AI의 발전은 한국 반도체 주식들에게 큰 기회가 될 것."
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "total_slides": 4,
+      "type": "cta",
+      "summary_title": "오늘의 핵심 포인트 3줄 요약",
+      "summary_items": [
+        "AI의 발전이 반도체의 수요를 크게 증가시킨다.",
+        "삼성전자와 SK하이닉스가 혜택을 볼 가능성이 높음.",
+        "메타 AI 뮤즈는 새로운 수요를 유발했다."
+      ],
+      "action_title": "더 많은 부동산 꿀팁이 궁금하다면?",
+      "action_desc": "팔로우하고 매일 새로운 인사이트를 받아보세요!",
+      "icons": [
+        "저장하기",
+        "공유하기"
+      ]
+    }
+  ]
+}

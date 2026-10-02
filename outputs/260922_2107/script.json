@@ -1,0 +1,63 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "total_slides": 4,
+      "type": "cover",
+      "headline_prefix": "지금 모르면 1억 손해보는",
+      "headline_highlight": "서울 분양가 숨은 진실",
+      "headline_suffix": "",
+      "tagline": "청약 전 필수 체크",
+      "image_caption": "서울 아파트 전경",
+      "swipe_text": "밀어서 손해 막기 ➔"
+    },
+    {
+      "slide_number": 2,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "RISK 01",
+      "title": "대다수가 놓치는 2가지 함정",
+      "points": [
+        {
+          "number": "01",
+          "heading": "옵션비 폭탄",
+          "desc": "발코니 확장 및 필수 옵션으로 추가 5천만원 발생"
+        },
+        {
+          "number": "02",
+          "heading": "중도금 대출 이자",
+          "desc": "후불제 이자로 잔금 시점에 추가 부담"
+        }
+      ]
+    },
+    {
+      "slide_number": 3,
+      "total_slides": 4,
+      "type": "body_list",
+      "step_badge": "SOLUTION",
+      "title": "손해 막는 3단계 액션 플랜",
+      "points": [
+        {
+          "number": "01",
+          "heading": "총 소요 자금 계산",
+          "desc": "분양가 + 옵션비 + 취득세까지 사전 시뮬레이션"
+        },
+        {
+          "number": "02",
+          "heading": "DSR 한도 사전 조회",
+          "desc": "잔금 대출 가능 금액 사전 확인 필수"
+        }
+      ]
+    },
+    {
+      "slide_number": 4,
+      "total_slides": 4,
+      "type": "cta",
+      "summary_title": "오늘의 1줄 요약",
+      "summary_items": [
+        "분양가 외 추가 비용 7천만원 꼭 계산할 것"
+      ],
+      "cta_action": "두고두고 보시려면 오른쪽 아래 저장(북마크)을 눌러주세요!"
+    }
+  ]
+}
