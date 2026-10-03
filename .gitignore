@@ -20,7 +20,11 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Temporary / Cache
+# Temporary Render Outputs & Screenshots
+outputs/render_*/
+assets/dashboard_*.png
+
+# System Generated / Temporary
 .system_generated/
 tmp/
 scratch/
